@@ -1,1 +1,2 @@
 # Case-Study-Supply-Chain-decisions-for-MediCrystals
+Recommendation was presented in 4 parts which is an executive summary for building the supply chain for COVID-19 vaccines considering various methodologies, Tableau dashboards for supplier risk, inventory information and capacity constraints, a multi weighted scoring model for risk domains for suppliers like financial risk, operations risk, data management risk for procurement strategies, and an working capital simulation model impacted by demand variability, lead time, demand and change in inventory.
